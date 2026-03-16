@@ -1,0 +1,14 @@
+*
+# 保留常见图片格式（覆盖主流图片类型，包括GIF）
+!*.jpg
+!*.jpeg
+!*.png
+!*.gif
+!*.bmp
+!*.webp
+!*.svg
+!*.ico
+!*.tiff
+!*.tif
+
+!.gitignore
